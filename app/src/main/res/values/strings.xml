@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="africaZAR">ZAR</string>
+    <string name="russianRUB">RUB</string>
+    <string name="singaporeSGD">SGD</string>
+    <string name="turkishTRY">TRY</string>
+    <string name="japonJPY">JPY</string>
+    <string name="germanEUR">EUR</string>
+    <string name="albanienALL">ALL</string>
+
+    <string name="africa">South African\nrand</string>
+    <string name="russian">Russian\nrouble</string>
+    <string name="singapore">Singapore\ndollar</string>
+    <string name="turkish">Turkish\nlira</string>
+    <string name="japon">Japanese\nyen</string>
+    <string name="deutschland">Deutsche\neuromünzen</string>
+    <string name="albanien">albanian\nlek</string>
+
+    <string name="capital1">Moscow</string>
+    <string name="capital2">Kair</string>
+    <string name="capital3">Singapore</string>
+    <string name="capital4">Ankara</string>
+    <string name="capital5">Tokyo</string>
+    <string name="capital6">Berlin</string>
+    <string name="capital7">Tirana</string>
+
+    <string name="flag">flag</string>
+</resources>
